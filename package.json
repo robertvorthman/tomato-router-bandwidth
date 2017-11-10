@@ -1,0 +1,14 @@
+{
+  "name": "tomato-router-bandwidth",
+  "version": "1.0.0",
+  "description": "retrieves real-time bandwidth from Tomato routers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Vorthman",
+  "license": "MIT",
+  "dependencies": {
+    "json-literal-parse": "0.0.0"
+  }
+}
