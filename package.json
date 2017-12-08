@@ -1,6 +1,6 @@
 {
   "name": "tomato-router-bandwidth",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "retrieves real-time bandwidth from Tomato routers",
   "main": "index.js",
   "scripts": {
