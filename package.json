@@ -9,8 +9,10 @@
   "author": "Robert Vorthman",
   "license": "MIT",
   "dependencies": {
-    "json-literal-parse": "0.0.0"
-  },"keywords": [
+    "json-literal-parse": "0.0.0",
+    "request": "^2.83.0"
+  },
+  "keywords": [
     "tomato",
     "router",
     "bandwidth",
@@ -19,5 +21,9 @@
     "speed",
     "realtime",
     "monitor"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/robertvorthman/tomato-router-bandwidth.git"
+  }
 }
