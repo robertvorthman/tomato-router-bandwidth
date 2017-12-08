@@ -68,6 +68,7 @@ function getTotalBytes(){
 				setTimeout(getTotalBytes, options.timeBetweenReadings);
 			}else{
 				options.callback(calculateBandwidth());
+				readings = [];
 			}
 		}
 	});
